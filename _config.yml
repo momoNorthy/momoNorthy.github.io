@@ -83,4 +83,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  
+ excerpt_separator: "\n\n\n" 
