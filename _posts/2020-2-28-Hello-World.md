@@ -4,6 +4,7 @@ title: Hello,World!
 ---
 
 你好！这是我的第一篇博文。
+<!--more-->
 ```cpp
 #include<iostream>
 int main()
