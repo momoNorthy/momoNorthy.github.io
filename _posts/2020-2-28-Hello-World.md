@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello,World!
+categories: hello
 ---
 
 你好！这是我的第一篇博文。
